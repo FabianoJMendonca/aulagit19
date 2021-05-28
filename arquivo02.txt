@@ -1,4 +1,8 @@
 linha1
+<<<<<<< HEAD
 nova linha2
+=======
+bug fix na linha2
+>>>>>>> feature
 linha3
 linha4
